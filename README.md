@@ -150,30 +150,7 @@ System.out.println("Is the player suitable? " + (isGoodPlayer ? "Yes" : "No"));
 
 ---
 
-## **Contributing**
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push your changes:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Create a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the **LICENSE** file for details.
-
----
-
 ## **Contact**
 For questions or support, contact:
-[nurajshaminda200@gamil.com](mailto:nurajshaminda200@gamil.com)
+[udittiwari3103@gamil.com]
 ---
